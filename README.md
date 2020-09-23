@@ -1,5 +1,4 @@
-# API-REST-com-Python-Django-e-Django-REST-Framework
-
+# API_Escola
 
 - Métodos GET, POST, PUT e DELETE
 - Permissionamento
