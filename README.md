@@ -1,4 +1,4 @@
-# API REST desenvolvida em Python e Django 
+# API REST Python e Django 
 
 - Métodos GET, POST, PUT e DELETE
 - Permissionamento
